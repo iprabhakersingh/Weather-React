@@ -29,9 +29,6 @@ A simple and responsive weather web application built using **React** and **Open
 
 ---
 
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
