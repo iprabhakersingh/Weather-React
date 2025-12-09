@@ -1,16 +1,53 @@
-# React + Vite
+# 🌦️ Weather React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive weather web application built using **React** and **OpenWeather API**. It allows users to search any city worldwide and displays real-time weather details including temperature, humidity, and wind speed.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+👉 Add your live deployed link here
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🌍 Search weather by city name  
+- 📡 Live weather data from OpenWeather API  
+- 🎯 Shows temperature, humidity & wind details  
+- 💡 User-friendly, clean UI  
+- 📱 Fully responsive design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript**
+- **HTML / CSS**
+- **Axios / Fetch API**
+- **OpenWeather API**
+
+---
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/weather-react-app.git
+
+# Move into the project folder
+cd weather-react-app
+
+# Install dependencies
+npm install
+
+# Add your OpenWeather API key inside .env
+VITE_WEATHER_API_KEY=your_api_key_here
+
+# Start the development server
+npm start
+
+
