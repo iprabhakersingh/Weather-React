@@ -1,4 +1,4 @@
-# 🌦️ Weather React App
+# 🌦️ Weather-React
 
 A simple and responsive weather web application built using **React** and **OpenWeather API**. It allows users to search any city worldwide and displays real-time weather details including temperature, humidity, and wind speed.
 
