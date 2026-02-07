@@ -33,7 +33,7 @@ A simple and responsive weather web application built using **React** and **Open
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/weather-react-app.git
+git clone https://github.com/iprabhakersingh/Weather-React.git
 
 # Move into the project folder
 cd weather-react-app
